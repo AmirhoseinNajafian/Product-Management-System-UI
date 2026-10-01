@@ -97,7 +97,7 @@ It introduces the platform's visual identity while providing access to featured 
 
 <div align="center">
 
-<img src="./docs/screenshots/login.png" alt="AWMIR Music" width="100%">
+<img src="./docs/screenshots/login.png" alt="AWMIR Login" width="100%">
 
 </div>
 
@@ -109,7 +109,7 @@ The registration section, which is connected to the database and stores each per
 
 <div align="center">
 
-<img src="./docs/screenshots/profile.png" alt="AWMIR Music Player" width="100%">
+<img src="./docs/screenshots/profile.png" alt="AWMIR Profile" width="100%">
 
 </div>
 
