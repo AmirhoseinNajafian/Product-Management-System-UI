@@ -93,31 +93,29 @@ It introduces the platform's visual identity while providing access to featured 
 
 ---
 
-## Music
+## Login
 
 <div align="center">
 
-<img src="./docs/screenshots/music.png" alt="AWMIR Music" width="100%">
+<img src="./docs/screenshots/login.png" alt="AWMIR Music" width="100%">
 
 </div>
 
-The music section provides a dedicated environment for discovering available tracks and exploring the platform's audio content.
-
-Music is treated as a core part of the platform rather than simply an additional website feature.
+The registration section, which is connected to the database and stores each person's information securely.
 
 ---
 
-## Music Player
+## profile
 
 <div align="center">
 
-<img src="./docs/screenshots/player.png" alt="AWMIR Music Player" width="100%">
+<img src="./docs/screenshots/profile.png" alt="AWMIR Music Player" width="100%">
 
 </div>
 
-The music player provides the primary listening experience.
+The profile section, where each person can customize or modify their profile.
 
-It connects the visual interface with the platform's music content while maintaining the overall design language of AWMIR.
+They can also edit their account details, such as their password and username, and change the site's language.
 
 ---
 
